@@ -2,15 +2,13 @@
 
 > **Read-only archive of released versions of ernestdefoe/vantage.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/vantage) or the [upstream repository](https://github.com/ernestdefoe/vantage).
 
-**3** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/ernestdefoe-vantage/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^2.0`
+**0** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/ernestdefoe-vantage/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `0.1.0` | 2026-10-30 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-vantage/tree/archive/v0.1.0) |
-| `0.1.1` | 2026-10-30 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-vantage/tree/archive/v0.1.1) |
-| `0.1.2` | 2026-11-02 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-vantage/tree/archive/v0.1.2) |
+| — | — | — | — |
 
 Catalog entry: [packages/ernestdefoe-vantage.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-vantage.json)
 
